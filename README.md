@@ -1,6 +1,6 @@
 # CursoDesarrolloSoftwareII
 
-# LiBREIAS Y PUGINS A ISNTALAR
+# LYBRARIS AND  PLUGINS INSTALLING
 ## Librerias a Instalar
 1. Instalar VsCode
 2. Instalar laragon
